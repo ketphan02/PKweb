@@ -2,6 +2,7 @@ import React from 'react';
 
 // Import CSS
 import '../../App.css';
+import './Home.css';
 
 import school_icon from '../../Pictures/school-24px.svg';
 
@@ -44,6 +45,7 @@ function About() {
                     <h3> Verbal languages </h3>
                     <lang>
                         <mainlang>
+                            <h4> Main </h4>
                             <img width="20vw" alt="Vn"
                             src="https://cdn.jsdelivr.net/npm/flag-icons@2.0.0/flags/flags/flat/64/Vietnam.png" />
                             &nbsp;Vietnamese<br/>
@@ -53,10 +55,11 @@ function About() {
                             &nbsp;English
                         </mainlang>
 
-                        <linebtw></linebtw>
+                        <linebtw id='st'></linebtw>
 
                         <notmain>
-                        <img width="20vw" alt="chinese"
+                            <h4> Others </h4>
+                            <img width="20vw" alt="chinese"
                             src="https://cdn.jsdelivr.net/npm/flag-icons@2.0.0/flags/flags/flat/64/China.png" />
                             &nbsp;Chinese<br/>
 
@@ -66,7 +69,7 @@ function About() {
                         </notmain>
                     </lang>
 
-                    <br/>
+                    <hr/>
 
                     <h3> Programing languages </h3>
                     <lang>
@@ -74,7 +77,7 @@ function About() {
                         <mainlang>
                             <p>
 
-                                <h4> Main languages</h4>
+                                <h4> Most used </h4>
                                 <img width="20vw" alt="python"
                                 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
                                 &nbsp;
@@ -89,13 +92,13 @@ function About() {
                             </p>
                         </mainlang>
 
-                        <linebtw></linebtw>
+                        <linebtw id='nd'></linebtw>
 
                         <notmain>
 
                             <p>
 
-                                <h4> Others </h4>
+                                <h4> Less used </h4>
 
                                 <img width="20vw" alt="ts"
                                 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />

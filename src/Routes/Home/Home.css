@@ -35,7 +35,7 @@ h4 {
 
 p {
     margin-block-start: 0;
-    line-height: 180%;
+    line-height: 140%;
 }
 
 .propic {
@@ -101,14 +101,24 @@ mainlang {
 linebtw {
     margin-top: 1vh;
     box-sizing: border-box;
-    height: 7vh;
     background-color: #282c34;
     width: 2px;
+}
 
+#st {
+    height: 10vh;
+}
+
+#nd {
+    height: 6vh;
 }
 
 notmain {
     display: inline-block;
     margin-left: 2vw;
     width: 19vw; 
+}
+
+hr {
+    visibility: hidden;
 }
