@@ -13,10 +13,16 @@ function Home() {
     return (
         <div className="App">
             <Header />
-            
-            <Profile />
+            <div className="Home-page">
+                <Profile />
+            </div>
+            <div className="Home-page">
+                <div className="abt-me">
 
-            
+                    <h1> ABOUT ME </h1>
+
+                </div>
+            </div>
         </div>
     );
 }
