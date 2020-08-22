@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/PKweb/static/css/main.bf7dece4.chunk.css",
-    "main.js": "/PKweb/static/js/main.a3548a1d.chunk.js",
-    "main.js.map": "/PKweb/static/js/main.a3548a1d.chunk.js.map",
+    "main.css": "/PKweb/static/css/main.ff0015c6.chunk.css",
+    "main.js": "/PKweb/static/js/main.3d02b423.chunk.js",
+    "main.js.map": "/PKweb/static/js/main.3d02b423.chunk.js.map",
     "runtime-main.js": "/PKweb/static/js/runtime-main.44779f00.js",
     "runtime-main.js.map": "/PKweb/static/js/runtime-main.44779f00.js.map",
     "static/js/2.5feef017.chunk.js": "/PKweb/static/js/2.5feef017.chunk.js",
     "static/js/2.5feef017.chunk.js.map": "/PKweb/static/js/2.5feef017.chunk.js.map",
     "index.html": "/PKweb/index.html",
-    "precache-manifest.225a5878e5d8917760e5cd4699061531.js": "/PKweb/precache-manifest.225a5878e5d8917760e5cd4699061531.js",
+    "precache-manifest.cd5946e31872ca20bf52bee2c842baec.js": "/PKweb/precache-manifest.cd5946e31872ca20bf52bee2c842baec.js",
     "service-worker.js": "/PKweb/service-worker.js",
-    "static/css/main.bf7dece4.chunk.css.map": "/PKweb/static/css/main.bf7dece4.chunk.css.map",
+    "static/css/main.ff0015c6.chunk.css.map": "/PKweb/static/css/main.ff0015c6.chunk.css.map",
     "static/js/2.5feef017.chunk.js.LICENSE.txt": "/PKweb/static/js/2.5feef017.chunk.js.LICENSE.txt",
     "static/media/profile.png": "/PKweb/static/media/profile.093a6e3f.png",
     "static/media/school-24px.svg": "/PKweb/static/media/school-24px.e24aef97.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.44779f00.js",
     "static/js/2.5feef017.chunk.js",
-    "static/css/main.bf7dece4.chunk.css",
-    "static/js/main.a3548a1d.chunk.js"
+    "static/css/main.ff0015c6.chunk.css",
+    "static/js/main.3d02b423.chunk.js"
   ]
 }
