@@ -1,0 +1,30 @@
+.content-container {
+    width: auto;
+    margin-left:    3vw;
+    margin-right: 3vw;
+    text-align: center;
+    vertical-align: middle;
+}
+
+h1 {
+    font-size: 6vh;
+    margin-block-end: 0vh;
+    margin-block-start: 0.1vh;
+    position: relative;
+}
+
+h4 {
+    margin-block-end: 0vh;
+    margin-block-start: 0.1vh;
+}
+
+
+p {
+    margin-block-start: 0;
+}
+
+img {
+    width: 50vh;
+    padding-top: 15vh;
+    position: relative;
+}
