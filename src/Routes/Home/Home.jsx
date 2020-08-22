@@ -14,9 +14,7 @@ function Home() {
     return (
         <div className="App">
             <Header />
-            <div className="Home-page">
-                <Profile />
-            </div>
+            <Profile />
             <About />
         </div>
     );

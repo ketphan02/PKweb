@@ -1,20 +1,13 @@
 .Home-page {
     background-color: #282c34;
     color: #F5F5F5;
-    width: 100vw;
-    height: 95vh;
+    width: 100%;
+    height: 93vh;
 }
 
-.content-container {    
-    width: auto;
-    margin-left: 3vw;
-    margin-right: 3vw;
+.content-container {
     text-align: center;
     vertical-align: middle;
-
-    padding-bottom: auto;
-
-
 }
 
 h1 {
