@@ -15,7 +15,7 @@ function Profile() {
     return (
         <div className="content-container">
 
-            <img src={img_src} alt="Profile pic" />
+            <img className="propic" src={img_src} alt="Profile pic" />
             <h1> Phan Kiệt </h1>
             <h4> BSc. Student </h4>
             <h4> University of British Columbia</h4>
