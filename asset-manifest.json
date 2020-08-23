@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/PKweb/static/css/main.9d633232.chunk.css",
-    "main.js": "/PKweb/static/js/main.c8213b37.chunk.js",
-    "main.js.map": "/PKweb/static/js/main.c8213b37.chunk.js.map",
+    "main.css": "/PKweb/static/css/main.4ea3ac31.chunk.css",
+    "main.js": "/PKweb/static/js/main.e5fcc59f.chunk.js",
+    "main.js.map": "/PKweb/static/js/main.e5fcc59f.chunk.js.map",
     "runtime-main.js": "/PKweb/static/js/runtime-main.44779f00.js",
     "runtime-main.js.map": "/PKweb/static/js/runtime-main.44779f00.js.map",
     "static/js/2.f5bad737.chunk.js": "/PKweb/static/js/2.f5bad737.chunk.js",
     "static/js/2.f5bad737.chunk.js.map": "/PKweb/static/js/2.f5bad737.chunk.js.map",
     "index.html": "/PKweb/index.html",
-    "precache-manifest.2b3876589600137f3bb5c44686212105.js": "/PKweb/precache-manifest.2b3876589600137f3bb5c44686212105.js",
+    "precache-manifest.e631997fd456435dd366b14f13cfac8a.js": "/PKweb/precache-manifest.e631997fd456435dd366b14f13cfac8a.js",
     "service-worker.js": "/PKweb/service-worker.js",
-    "static/css/main.9d633232.chunk.css.map": "/PKweb/static/css/main.9d633232.chunk.css.map",
+    "static/css/main.4ea3ac31.chunk.css.map": "/PKweb/static/css/main.4ea3ac31.chunk.css.map",
     "static/js/2.f5bad737.chunk.js.LICENSE.txt": "/PKweb/static/js/2.f5bad737.chunk.js.LICENSE.txt",
     "static/media/github.svg": "/PKweb/static/media/github.c88dbf1b.svg",
     "static/media/gmail.svg": "/PKweb/static/media/gmail.546626bf.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.44779f00.js",
     "static/js/2.f5bad737.chunk.js",
-    "static/css/main.9d633232.chunk.css",
-    "static/js/main.c8213b37.chunk.js"
+    "static/css/main.4ea3ac31.chunk.css",
+    "static/js/main.e5fcc59f.chunk.js"
   ]
 }
