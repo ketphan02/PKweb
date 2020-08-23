@@ -1,0 +1,148 @@
+@media (max-width: 600px)
+{
+    .Home-page {
+        background-color: #282c34;
+        color: #F5F5F5;
+        width: 100%;
+        height: 93%;
+    }
+    
+    .content-container {
+        text-align: center;
+        vertical-align: middle;
+    }
+    
+    .contact {
+        padding-top: 1.4%;
+        display: inline-block;
+        margin: auto;
+        width: 25%;
+        justify-content: space-between;
+        display: flex;
+    
+        margin: auto;
+    }
+    
+    h1 {
+        font-size: 24   0%;
+        margin-block-end: 0;
+        margin-block-start: 0.1%;
+    }
+    
+    h2 {
+        font-size: 200%;
+    }
+    
+    h3 {
+        font-size: 160%;
+        margin-block-start: 0.3%;
+        margin-block-end: 0.3%;
+    }
+    
+    h4 {
+        font-size: 120%;
+        margin-block-end: 0;
+        margin-block-start: 0.1%;
+    }
+    
+    
+    p {
+        margin-block-start: 0;
+        line-height: 140%;
+    }
+    
+    .propic {
+        width: 45%;
+        padding-top: 15vh;
+    }
+    
+    .abt-me-title {
+        margin-top: 4vh;
+        padding: 0 5vw;
+    }
+    
+    .abt-me {
+        margin-top: 0;
+        padding: 0 5vw;
+        display: block;
+        justify-content: space-around;
+    }
+    
+    education {
+        box-sizing: border-box;
+        border-radius: 6px;
+        background-color: #F5F5F5;
+        color: #282c34;
+        padding-left: 6vw;
+        height: auto;
+        width: 80vw;
+        display: block;
+        padding-bottom: 1vh;;
+    
+        margin-right: 0vw;
+        margin: auto;
+        margin-bottom: 2vh;
+    }
+    
+    edu {
+        text-align: left;
+    }
+    
+    language {
+        box-sizing: border-box;
+        border-radius: 6px;
+        background-color: #F5F5F5;
+        color: #282c34;
+        padding-right: 0;
+        height: auto;
+        width: 80vw;
+        display: block;
+        padding-bottom: 1vh;;
+    
+        margin-right: 0vw;
+        margin: auto;
+        margin-bottom: 2vh;
+    }
+    
+    lang {
+        display: flex;
+        justify-content: space-between;
+        font-weight: 400;
+    }
+    
+    mainlang {
+        display: inline-block;
+        margin-right: 0;
+        width: 40vw;
+
+        margin: auto;
+    }
+    
+    linebtw {
+        margin-top: 1vh;
+        box-sizing: border-box;
+        background-color: #282c34;
+        width: 2px;
+    }
+    
+    #st {
+        height: 10vh;
+    }
+    
+    #nd {
+        height: 6vh;
+    }
+    
+    notmain {
+        display: inline-block;
+        margin-right: 0;
+        width: 40vw;
+
+        margin: auto;
+    }
+    
+    hr {
+        visibility: hidden;
+    }
+    
+}

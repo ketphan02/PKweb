@@ -26,6 +26,7 @@ function About() {
                             <h4> University of British Columbia </h4>
                             <i>(Bachelor of Science)</i>    
                         </p>
+                        <br/>
                         <p>
                             <img width="20vw" alt="school"
                             src={school_icon} />&nbsp; 2017 - 2020
@@ -47,11 +48,11 @@ function About() {
                         <mainlang>
                             <h4> Main </h4>
                             <img width="20vw" alt="Vn"
-                            src="https://cdn.jsdelivr.net/npm/flag-icons@2.0.0/flags/flags/flat/64/Vietnam.png" />
+                            src="https://cdn.jsdelivr.net/npm/flag-icon@2.5.0/svg/country-4x3/vn.svg" />
                             &nbsp;Vietnamese<br/>
 
                             <img width="20vw" alt="us"
-                            src="https://cdn.jsdelivr.net/npm/flag-icons@2.0.0/flags/flags/flat/64/United-States.png" />
+                            src="https://cdn.jsdelivr.net/npm/flag-icon@2.5.0/svg/country-4x3/us.svg" />
                             &nbsp;English
                         </mainlang>
 
@@ -60,16 +61,14 @@ function About() {
                         <notmain>
                             <h4> Others </h4>
                             <img width="20vw" alt="chinese"
-                            src="https://cdn.jsdelivr.net/npm/flag-icons@2.0.0/flags/flags/flat/64/China.png" />
+                            src="https://cdn.jsdelivr.net/npm/flag-icon@2.5.0/svg/country-4x3/cn.svg" />
                             &nbsp;Chinese<br/>
 
                             <img width="20vw" alt="french"
-                            src="https://cdn.jsdelivr.net/npm/flag-icons@2.0.0/flags/flags/flat/64/France.png" />
+                            src="https://cdn.jsdelivr.net/npm/flag-icon@2.5.0/svg/country-4x3/fr.svg" />
                             &nbsp;French
                         </notmain>
                     </lang>
-
-                    <hr/>
 
                     <h3> Programing languages </h3>
                     <lang>
