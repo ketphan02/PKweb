@@ -26,7 +26,7 @@ function About() {
                             <h4> University of British Columbia </h4>
                             <i>(Bachelor of Science)</i>    
                         </p>
-                        <br/>
+                        {/* <br/> */}
                         <p>
                             <img width="20vw" alt="school"
                             src={school_icon} />&nbsp; 2017 - 2020

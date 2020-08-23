@@ -22,7 +22,7 @@ function Profile() {
             <div className="content-container">
 
                 <img className="propic" src={img_src} alt="Profile pic" />
-                <h1> Phan Kiệt </h1>
+                <h1 className="name-tit"> Phan Kiệt </h1>
                 <h4> Student </h4>
                 <h4> University of British Columbia</h4>
 

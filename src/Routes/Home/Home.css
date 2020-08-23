@@ -22,7 +22,7 @@
 }
 
 h1 {
-    font-size: 24   0%;
+    font-size: 240%;
     margin-block-end: 0;
     margin-block-start: 0.1%;
 }
@@ -73,7 +73,7 @@ education {
     background-color: #F5F5F5;
     color: #282c34;
     padding-left: 2vw;
-    height: 40vh;
+    height: 45vh;
     width: 40vw;
     display: inline-block;
 
@@ -91,7 +91,7 @@ language {
     background-color: #F5F5F5;
     color: #282c34;
     padding-right: 2vw;
-    height: 40vh;
+    height: 45vh;
     width: 40vw;
     display: inline-block;
     margin-left: 5vw;

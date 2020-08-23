@@ -1,4 +1,4 @@
-@media (max-width: 600px)
+@media (max-width: 850px)
 {
     .Home-page {
         background-color: #282c34;
@@ -13,10 +13,10 @@
     }
     
     .contact {
-        padding-top: 1.4%;
+        padding-top: 2%;
         display: inline-block;
         margin: auto;
-        width: 25%;
+        width: 40%;
         justify-content: space-between;
         display: flex;
     
@@ -24,17 +24,17 @@
     }
     
     h1 {
-        font-size: 24   0%;
+        font-size: 180%;
         margin-block-end: 0;
         margin-block-start: 0.1%;
     }
     
     h2 {
-        font-size: 200%;
+        font-size: 160%;
     }
     
     h3 {
-        font-size: 160%;
+        font-size: 140%;
         margin-block-start: 0.3%;
         margin-block-end: 0.3%;
     }
@@ -47,12 +47,13 @@
     
     
     p {
+        font-size: 80%;
         margin-block-start: 0;
         line-height: 140%;
     }
     
     .propic {
-        width: 45%;
+        width: 55%;
         padding-top: 15vh;
     }
     
