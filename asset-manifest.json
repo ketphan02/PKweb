@@ -1,24 +1,28 @@
 {
   "files": {
-    "main.css": "/PKweb/static/css/main.3e01f523.chunk.css",
-    "main.js": "/PKweb/static/js/main.8dc728c0.chunk.js",
-    "main.js.map": "/PKweb/static/js/main.8dc728c0.chunk.js.map",
+    "main.css": "/PKweb/static/css/main.9d633232.chunk.css",
+    "main.js": "/PKweb/static/js/main.c8213b37.chunk.js",
+    "main.js.map": "/PKweb/static/js/main.c8213b37.chunk.js.map",
     "runtime-main.js": "/PKweb/static/js/runtime-main.44779f00.js",
     "runtime-main.js.map": "/PKweb/static/js/runtime-main.44779f00.js.map",
-    "static/js/2.d3e9297f.chunk.js": "/PKweb/static/js/2.d3e9297f.chunk.js",
-    "static/js/2.d3e9297f.chunk.js.map": "/PKweb/static/js/2.d3e9297f.chunk.js.map",
+    "static/js/2.f5bad737.chunk.js": "/PKweb/static/js/2.f5bad737.chunk.js",
+    "static/js/2.f5bad737.chunk.js.map": "/PKweb/static/js/2.f5bad737.chunk.js.map",
     "index.html": "/PKweb/index.html",
-    "precache-manifest.87431d75c003cb553c0e644ed4c7f186.js": "/PKweb/precache-manifest.87431d75c003cb553c0e644ed4c7f186.js",
+    "precache-manifest.2b3876589600137f3bb5c44686212105.js": "/PKweb/precache-manifest.2b3876589600137f3bb5c44686212105.js",
     "service-worker.js": "/PKweb/service-worker.js",
-    "static/css/main.3e01f523.chunk.css.map": "/PKweb/static/css/main.3e01f523.chunk.css.map",
-    "static/js/2.d3e9297f.chunk.js.LICENSE.txt": "/PKweb/static/js/2.d3e9297f.chunk.js.LICENSE.txt",
+    "static/css/main.9d633232.chunk.css.map": "/PKweb/static/css/main.9d633232.chunk.css.map",
+    "static/js/2.f5bad737.chunk.js.LICENSE.txt": "/PKweb/static/js/2.f5bad737.chunk.js.LICENSE.txt",
+    "static/media/github.svg": "/PKweb/static/media/github.c88dbf1b.svg",
+    "static/media/gmail.svg": "/PKweb/static/media/gmail.546626bf.svg",
+    "static/media/linkedin.svg": "/PKweb/static/media/linkedin.71790cca.svg",
+    "static/media/outlook.svg": "/PKweb/static/media/outlook.a8d14d09.svg",
     "static/media/profile.png": "/PKweb/static/media/profile.093a6e3f.png",
     "static/media/school-24px.svg": "/PKweb/static/media/school-24px.e24aef97.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.44779f00.js",
-    "static/js/2.d3e9297f.chunk.js",
-    "static/css/main.3e01f523.chunk.css",
-    "static/js/main.8dc728c0.chunk.js"
+    "static/js/2.f5bad737.chunk.js",
+    "static/css/main.9d633232.chunk.css",
+    "static/js/main.c8213b37.chunk.js"
   ]
 }
