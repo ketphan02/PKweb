@@ -8,6 +8,7 @@
 .content-container {
     text-align: center;
     vertical-align: middle;
+    margin: auto;
 }
 
 .contact {
@@ -19,6 +20,10 @@
     display: flex;
 
     margin: auto;
+}
+
+.name-tit{
+    font-size: 240%!important;
 }
 
 h1 {
@@ -50,7 +55,7 @@ p {
 }
 
 .propic {
-    width: 20%;
+    width: 280px;
     padding-top: 15vh;
 }
 
